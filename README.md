@@ -1,8 +1,8 @@
 # Week-1
 
-A detailed plan of action with the following:
+##A detailed plan of action with the following:
 
-An overview of the intended application and WHY you feel it's valuable.
+###An overview of the intended application and WHY you feel it's valuable.
 
 A breakdown of roles by group member.
 
